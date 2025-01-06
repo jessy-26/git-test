@@ -1,0 +1,4 @@
+public class Main (string args[]){
+    system out.println("hello java!");
+}
+
